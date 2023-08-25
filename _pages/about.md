@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>LUMS</a>. Opposite "U" Sector, Lahore.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Asgher.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office Number 9-145</p>
+    <p>Dept. of Mathematics</p>
+    <p>LUMS, Lahore, Pakistan</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -27,4 +27,4 @@ My journey is not confined to the theoretical alone. My explorations encompass a
 
 <p><strong>Research interests</strong>: computational mathematics, numerical optimization, neural network inspired PDEs solution, modeling and simulations, optimal control theory, parameter estimation, stochastic modeling.
 
-<p><strong>Let me know if you have an open post doc position on these (or adjacent) topics.</strong>
+<p><strong>Let me know if you have an open post doc position on these (or adjacent) topics.</strong> 
