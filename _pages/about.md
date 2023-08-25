@@ -9,9 +9,9 @@ profile:
   image: Asgher.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office Number 9-145</p>
-    <p>Dept. of Mathematics</p>
-    <p>LUMS, Lahore, Pakistan</p>
+    <p> Office Number 9-145 </p>
+    <p> Department of Mathematics </p>
+    <p> Lahore University of Management Sciences, Lahore, Pakistan </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
