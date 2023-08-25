@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Asgher Ali",
+    "label": "Applied Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "asgher.ali@lums.edu.pk",
+    "phone": "(+92) 335-4462930",
+    "url": "https://aasgherali.github.io",
+    "summary": "A mathematician with a passion for delving into computational mathematics and mastering numerical optimization techniques",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Lahore Cantt, Punjab",
+      "postalCode": "54000",
+      "city": "Lahore",
+      "countryCode": "PK",
+      "region": "Pakistan"
     },
     "profiles": [
       {
