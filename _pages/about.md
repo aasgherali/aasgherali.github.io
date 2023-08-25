@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my webpage! :wave: I'm delighted to introduce myself – I am Asgher Ali, a dedicated Adjunct Faculty at the Department of Mathematics within the Syed Babar Ali School of Science and Engineering, nestled within the vibrant academic landscape of Lahore University of Management Sciences (LUMS). My intellectual pursuits revolve around the captivating realm of optimal control, specifically as it pertains to continuous models stemming from antibiotic and radiobiological dosing challenges.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With a fervent curiosity for the practical applications of mathematics, I am driven to bridge the gap between theory and real-world impact. The complex landscapes of antibiotic and radiobiological dosing have captivated my attention, propelling me to explore optimal control methodologies that hold the potential to revolutionize healthcare strategies and deepen our understanding of biological systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My journey is not confined to the theoretical alone. My explorations encompass a diverse array of interests, ranging from computational mathematics and numerical optimization to the intricacies of data-driven partial differential equation solutions. I find great fulfillment in engaging with modeling and simulations, as well as diving into the depths of parameter estimation and stochastic modeling.
+
+<p><strong>Research interests</strong>: computational mathematics, numerical optimization, neural network inspired PDEs solution, modeling and simulations, optimal control theory, parameter estimation, stochastic modeling.
+
+<p><strong>Let me know if you have an open post doc position on these (or adjacent) topics.</strong>
