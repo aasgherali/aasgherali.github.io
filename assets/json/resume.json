@@ -17,12 +17,24 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "aasgher385",
+        "url": "https://twitter.com/aasgher385"
       }
     ]
   },
   "work": [
+    {
+      "name": "Lahore University of Management Sciences",
+      "position": "Adjunct Faculty",
+      "url": "https://sbasse.lums.edu.pk/lums_employee/4005",
+      "startDate": "Jan 2023",
+      "endDate": "To date",
+      "summary": "Teaching Calculus I (Math) in Fall 2023-24. Previously, taught Pre Calculus in Spring 2022-23",
+      "highlights": [
+      "Calculus"
+      ]
+    }
+
     {
       "name": "Lahore University of Management Sciences",
       "position": "Adjunct Faculty",
