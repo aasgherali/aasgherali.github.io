@@ -88,15 +88,13 @@
 
   "education": [
     {
-    "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+    "institution": "Lahore University of Management Sciences, Lahore, Pakistan",
+      "url": "https://www.lums.edu.pk/",
+      "area": "Optimal control theory, Numerical Optimization, Antibiotic Dosing",
+      "studyType": "PhD Mathematics",
+      "endDate": "2023",
       "courses": [
-        "Theory of Relativity"
+        "Optimal Control of Antibiotic Dosing in Horizontal Gene Transfer Models"
       ]
     }
   ],
