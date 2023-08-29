@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with jupyter notebook
+title: a post to illustrate numerical integration
 date: 2023-07-04 08:57:00-0400
 description: an example of a blog post with jupyter notebook
-tags: formatting jupyter
+tags: trapz riemann 
 categories: sample-posts
 giscus_comments: true
 related_posts: false
@@ -32,7 +32,7 @@ Let's break it down: this is possible thanks to [Jekyll Jupyter Notebook plugin]
 The plugin takes as input the path to the notebook, but it assumes the file exists. If you want to check if the file exists before calling the plugin, you can use the `file_exists` filter. This avoids getting a 404 error from the plugin and ending up displaying the main page inside of it instead. If the file does not exist, you can output a message to the user. The code displayed above outputs the following:
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
+{% assign jupyter_path = "assets/jupyter/Post1_integ.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
