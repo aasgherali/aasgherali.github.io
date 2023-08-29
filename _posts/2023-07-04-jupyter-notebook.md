@@ -56,7 +56,7 @@ Mathematically, the left endpoint sum for a function f(x) over the interval [a, 
 
 $$ L_n = \sum_{i=0}^{n-1} f(a + i \cdot \Delta x) \cdot \Delta x $$
 
-where $\Delta x$ is the width of each subinterval.
+where $$ \Delta x $$ is the width of each subinterval.
 
 ## Right Endpoint Sums
 
