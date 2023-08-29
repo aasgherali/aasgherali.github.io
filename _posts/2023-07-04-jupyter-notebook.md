@@ -35,8 +35,6 @@ The plugin takes as input the path to the notebook, but it assumes the file exis
 
 -->
 
-# Understanding Left Endpoint and Right Endpoint Sums in Calculus
-
 When diving into the world of calculus, one of the fundamental concepts you'll encounter is the concept of approximating the area under a curve using sums. Two common types of approximations are left endpoint sums and right endpoint sums. These techniques play a crucial role in understanding integration and the behavior of functions.
 
 ## The Basics of Sums and Approximations
