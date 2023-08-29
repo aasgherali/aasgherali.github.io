@@ -102,11 +102,21 @@
         "url": "https://www.lums.edu.pk/",
         "area": "Mathematical biology",
         "studyType": "MS Mathematics",
-        "date": "2016",
+        "date": "2015",
         "courses": [
           "Mathematical study of disease based amphibian extinction under the Allee Effect"
         ]
-      }
+      },
+      {
+        "institution": "University of the Punjab, Lahore, Pakistan",
+          "url": "https://www.pu.edu.pk/",
+          "area": "Pure Mathematics",
+          "studyType": "MSc Mathematics",
+          "date": "2012",
+          "courses": [
+            "Advanced Group theory", "Number Theory"
+          ]
+        }
   ],
 
   "awards": [
