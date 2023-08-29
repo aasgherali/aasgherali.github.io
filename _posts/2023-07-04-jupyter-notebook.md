@@ -41,7 +41,7 @@ When diving into the world of calculus, one of the fundamental concepts you'll e
 
 ## The Basics of Sums and Approximations
 
-Imagine you have a curve on a graph, representing a function. The area under this curve between two points on the x-axis holds valuable information about the behavior of the function. But ***how do we calculate this area when the curve isn't easily described by a simple mathematical formula? ***
+Imagine you have a curve on a graph, representing a function. The area under this curve between two points on the x-axis holds valuable information about the behavior of the function. But **how do we calculate this area when the curve isn't easily described by a simple mathematical formula? **
 
 That's where approximations come in. By dividing the interval between two x-values into smaller subintervals, we can treat each subinterval as a rectangle and calculate the combined area of these rectangles to approximate the total area under the curve.
 
@@ -56,9 +56,9 @@ A left endpoint sum, also known as a left Riemann sum, approximates the area und
 
 Mathematically, the left endpoint sum for a function f(x) over the interval [a, b] with n subintervals is given by:
 
-\[ L_n = \sum_{i=0}^{n-1} f(a + i \cdot \Delta x) \cdot \Delta x \]
+$$ L_n = \sum_{i=0}^{n-1} f(a + i \cdot \Delta x) \cdot \Delta x $$
 
-where \( \Delta x \) is the width of each subinterval.
+where $ \Delta x $ is the width of each subinterval.
 
 ## Right Endpoint Sums
 
@@ -66,7 +66,7 @@ On the other hand, a right endpoint sum, or a right Riemann sum, approximates th
 
 Mathematically, the right endpoint sum for a function f(x) over the interval [a, b] with n subintervals is given by:
 
-\[ R_n = \sum_{i=1}^{n} f(a + i \cdot \Delta x) \cdot \Delta x \]
+$$ R_n = \sum_{i=1}^{n} f(a + i \cdot \Delta x) \cdot \Delta x $$
 
 ## Comparing Left and Right Endpoint Sums
 
