@@ -92,11 +92,21 @@
       "url": "https://www.lums.edu.pk/",
       "area": "Optimal control theory, Numerical Optimization, Antibiotic Dosing",
       "studyType": "PhD Mathematics",
-      "endDate": "2023",
+      "date": "2023",
       "courses": [
         "Optimal Control of Antibiotic Dosing in Horizontal Gene Transfer Models"
       ]
-    }
+    },
+    {
+      "institution": "Lahore University of Management Sciences, Lahore, Pakistan",
+        "url": "https://www.lums.edu.pk/",
+        "area": "Mathematical biology",
+        "studyType": "MS Mathematics",
+        "date": "2016",
+        "courses": [
+          "Mathematical study of disease based amphibian extinction under the Allee Effect"
+        ]
+      }
   ],
 
   "awards": [
