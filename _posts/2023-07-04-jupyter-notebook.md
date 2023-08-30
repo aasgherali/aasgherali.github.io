@@ -47,12 +47,12 @@ That's where approximations come in. By dividing the interval between two x-valu
 
 A left endpoint sum, also known as a left Riemann sum, approximates the area under the curve using the left endpoint of each subinterval. Here's how it works:
 
-1. Divide the interval [a, b] into smaller subintervals of equal width.
+1. Divide the interval $$[a, b]$$ into smaller subintervals of equal width.
 2. For each subinterval, find the height of the rectangle by evaluating the function at the left endpoint of the subinterval.
 3. Calculate the area of each rectangle by multiplying its height by the width of the subinterval.
 4. Add up the areas of all the rectangles to approximate the total area under the curve.
 
-Mathematically, the left endpoint sum for a function f(x) over the interval [a, b] with n subintervals is given by:
+Mathematically, the left endpoint sum for a function $$f(x)$$ over the interval $$[a, b]$$ with $$n$$ subintervals is given by:
 
 
 <!---
@@ -70,7 +70,7 @@ where $$ \Delta x $$ is the width of each subinterval.
 
 On the other hand, a right endpoint sum, or a right Riemann sum, approximates the area under the curve using the right endpoint of each subinterval. The process is similar to the left endpoint sum, but the heights of the rectangles are determined by evaluating the function at the right endpoints of the subintervals.
 
-Mathematically, the right endpoint sum for a function f(x) over the interval [a, b] with n subintervals is given by:
+Mathematically, the right endpoint sum for a function $$f(x)$$ over the interval $$[a, b]$$ with $$n$$ subintervals is given by:
 
 <p align="center">
 <img src="/assets/jupyter/R_n.png" alt="In the right-endpoint approximation of area under a curve, the height of each rectangle is determined by the function value at the right of each subinterval." />
