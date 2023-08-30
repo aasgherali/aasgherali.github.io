@@ -76,7 +76,7 @@ Mathematically, the right endpoint sum for a function f(x) over the interval [a,
 <img src="/assets/jupyter/R_n.png" alt="In the right-endpoint approximation of area under a curve, the height of each rectangle is determined by the function value at the right of each subinterval." />
 </p>
 
-$$ R_n = \sum_{i=1}^{n} f(x_i) \cdot \Delta x $$
+$$ A \approx R_n = f(x_1) \Delta x +f(x_2) \Delta x \cdots f(x_n) \Delta x = \sum_{i=1}^{n} f(x_i) \cdot \Delta x $$
 
 ## Comparing Left and Right Endpoint Sums
 
