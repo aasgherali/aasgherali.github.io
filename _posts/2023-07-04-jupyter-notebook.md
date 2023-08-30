@@ -54,7 +54,9 @@ A left endpoint sum, also known as a left Riemann sum, approximates the area und
 
 Mathematically, the left endpoint sum for a function f(x) over the interval [a, b] with n subintervals is given by:
 
-$$ L_n = \sum_{i=0}^{n-1} f(a + i \cdot \Delta x) \cdot \Delta x $$
+$$ A \approx L_n = f(x_0)\Delta x + f(x_1)\Delta x + \cdots f(x_{n-1})\Delta x = \sum_{i=0}^{n} f(a + i \cdot \Delta x) \cdot \Delta x $$
+ 
+![LeftEndPointSum](LeftEndPointSum.png)
 
 where $$ \Delta x $$ is the width of each subinterval.
 
