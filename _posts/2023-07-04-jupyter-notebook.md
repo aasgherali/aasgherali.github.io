@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Numerical integration using Symbolic Python
+title: The Art of Estimation, Left vs. Right Endpoint Sums for Area Calculation
 date: 2023-08-29 03:45:00-0400
 description: a blog post with jupyter notebook
 tags: trapz riemann 
