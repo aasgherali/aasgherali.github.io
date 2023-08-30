@@ -61,6 +61,7 @@ Mathematically, the left endpoint sum for a function f(x) over the interval [a, 
 <p align="center">
 <img src="/assets/jupyter/L_n.png" alt="In the left-endpoint approximation of area under a curve, the height of each rectangle is determined by the function value at the left of each subinterval " />
 </p>
+
 $$ A \approx L_n = f(x_0)\Delta x + f(x_1)\Delta x + \cdots f(x_{n-1})\Delta x = \sum_{i=1}^{n} f(x_{i-1}) \cdot \Delta x $$
  
 where $$ \Delta x $$ is the width of each subinterval.
@@ -71,7 +72,11 @@ On the other hand, a right endpoint sum, or a right Riemann sum, approximates th
 
 Mathematically, the right endpoint sum for a function f(x) over the interval [a, b] with n subintervals is given by:
 
-$$ R_n = \sum_{i=1}^{n} f(a + i \cdot \Delta x) \cdot \Delta x $$
+<p align="center">
+<img src="/assets/jupyter/R_n.png" alt="In the right-endpoint approximation of area under a curve, the height of each rectangle is determined by the function value at the right of each subinterval." />
+</p>
+
+$$ R_n = \sum_{i=1}^{n} f(x_i) \cdot \Delta x $$
 
 ## Comparing Left and Right Endpoint Sums
 
