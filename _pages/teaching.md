@@ -13,8 +13,8 @@ For now, this page is assumed to be a static description of courses. We can conv
 Organize courses by years, topics, or universities. 
 
 <!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
+<div class="teaching">
+{%- if site.enable_jectproject_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
