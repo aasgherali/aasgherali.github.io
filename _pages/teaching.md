@@ -24,7 +24,7 @@ Organize courses by years, topics, or universities.
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_teaching -%}
+    {%- for teaching in sorted_teaching -%}
       {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
