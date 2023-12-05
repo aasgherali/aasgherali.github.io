@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
+permalink: /teaching/
 description: Materials for courses taught.
 nav: true
-nav_order: 5
+nav_order: 2
 horizontal: false
 ---
 
