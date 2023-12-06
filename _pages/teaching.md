@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: /courses/
 description: Materials for courses taught.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work,fun]
 horizontal: false
 ---
 Oh yeah 

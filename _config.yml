@@ -175,6 +175,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  Courses:
+    output: true
+    permalink: /courses/:path/
 
 announcements:
   enabled: true
