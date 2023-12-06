@@ -175,7 +175,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  Courses:
+  courses:
     output: true
     permalink: /courses/:path/
 
