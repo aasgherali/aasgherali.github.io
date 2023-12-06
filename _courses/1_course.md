@@ -4,7 +4,7 @@ title: Pre Calculus
 description: Taught in Spring 2022-23
 img: assets/img/12.jpg
 importance: 1
-category: [work]
+category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
