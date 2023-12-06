@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 horizontal: false
 ---
+Oh yeah 
+
 
 For now, this page is assumed to be a static description of courses. We can convert it to a collection similar to `_projects/` so that we can have a dedicated page for each course.
 
@@ -18,8 +20,8 @@ Organize courses by years, topics, or universities.
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  {%- assign categorized_teaching = site.teaching | where: "category", category -%}
+  {%- assign sorted_teaching = categorized_teaching | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
