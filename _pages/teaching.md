@@ -5,9 +5,17 @@ permalink: /teaching/
 description: Materials for courses taught.
 nav: true
 nav_order: 2
+display_categories: [work, fun]
 horizontal: false
 ---
 Oh yeah 
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 
 For now, this page is assumed to be a static description of courses. We can convert it to a collection similar to `_projects/` so that we can have a dedicated page for each course.
