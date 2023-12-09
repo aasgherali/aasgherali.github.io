@@ -10,7 +10,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 
 
-Every project has a beautiful feature showcase page.
+<!--Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -21,7 +21,13 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- 
+-->
+
+Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding on this very stage. The Aspendos Theatre, a masterpiece of Roman engineering, stands defiant against the sands of time. Witness to centuries of history, it remains a vibrant testament to human creativity.
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,11 +45,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/aspendosvalley1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Aspendos Theatre: A Timeless Stage
 </div>
 
 You can also put regular text between your rows of images.
