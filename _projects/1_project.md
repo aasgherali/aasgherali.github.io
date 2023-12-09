@@ -24,7 +24,7 @@ To give your project a background in the portfolio page, just add the img tag to
     --- 
 -->
 
-Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding on this very stage. The Aspendos Theatre, a masterpiece of Roman engineering, stands defiant against the sands of time. Witness to centuries of history, it remains a vibrant testament to human creativity.
+Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding on this very stage. The Aspendos Theatre, a masterpiece of Greco-Roman engineering, stands defiant against the sands of time. Witness to centuries of history, it remains a vibrant testament to human creativity.
 
 
 <!--
