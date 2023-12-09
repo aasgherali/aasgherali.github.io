@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Travel 
 permalink: /projects/
-description: A growing collection of cool projects.
+description: A growing collection of travel pictures.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
