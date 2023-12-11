@@ -24,7 +24,7 @@ To give your project a background in the portfolio page, just add the img tag to
     --- 
 -->
 
-Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding on this very stage. The Aspendos Theatre, a masterpiece of Greco-Roman engineering, stands defiant against the sands of time. Witness to centuries of history, it remains a vibrant testament to human creativity.
+Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding on this very stage. The **Aspendos Theatre**, a masterpiece of Greco-Roman engineering, stands defiant against the sands of time. Witness to centuries of history, it remains a vibrant testament to human creativity.
  
 
 <div class="row">
@@ -47,9 +47,7 @@ Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding
 </div>
 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins and the sparkling Mediterranean Sea. A truly magical sight. 
 
 
 <div class="row justify-content-sm-center">
@@ -61,7 +59,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    A feast for the senses: a colorful and flavorful display of Turkish cuisine.
+   On the right, A feast for the senses: a colorful and flavorful display of Turkish cuisine.
 </div>
 
 
