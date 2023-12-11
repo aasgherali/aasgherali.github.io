@@ -50,17 +50,18 @@ Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding
 The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins and the sparkling Mediterranean Sea. A truly magical sight. 
 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center align-items-stretch">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/Sunset.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/Sunset.jpg" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/food1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/food1.jpg" title="Turkish Food" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
    On the right, A feast for the senses: a colorful and flavorful display of Turkish cuisine.
 </div>
+
 
 
 The code is simple.
