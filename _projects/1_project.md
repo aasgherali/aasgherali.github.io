@@ -39,7 +39,7 @@ Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/cable_car.jpg" title="Antalya" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/cable_car.jpg" title="Olympos Teleferik" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
