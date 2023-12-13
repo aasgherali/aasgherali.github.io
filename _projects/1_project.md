@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Turkey 2021
-description: a project with a background image
+description: A crossroads of cultures, a land for all seasons!
 img: assets/img/12.jpg
 importance: 1
 category: work
