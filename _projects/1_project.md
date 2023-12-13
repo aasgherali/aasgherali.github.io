@@ -66,5 +66,5 @@ The undisputed king of Turkish cuisine, kebabs offer a variety of grilled meats,
     </div>
 </div>
 <div class="caption">
-    On the left, a sunset view at Duden Park, Antalya. Middle, The Mediterranean Sea, a mesmerizing canvas, stretches out before you, its sparkling waves gently lapping against the shore. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, a sunset view at Duden Park, Antalya. Middle, The Mediterranean Sea, a mesmerizing canvas, stretches out before you, its sparkling waves gently lapping against the shore. Right, view from the hotel balcony.
 </div>
