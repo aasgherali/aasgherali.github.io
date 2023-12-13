@@ -50,7 +50,7 @@ Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding
 The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins and the sparkling Mediterranean Sea. A truly magical sight. 
 
 
-<div class="row justify-content-sm-center align-items-stretch">
+<div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/turkey/Sunset.jpg" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
     </div>
