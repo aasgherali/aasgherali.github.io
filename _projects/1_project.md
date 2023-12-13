@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Turkey 2021
+title: "Turkey 2021"
 description: A crossroads of cultures, a land for all seasons!
 img: assets/img/12.jpg
 importance: 1
