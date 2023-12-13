@@ -37,7 +37,7 @@ The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins 
 
 
 <div class="row justify-content-center">
-    <div class="col-8 mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/turkey/Sunset.jpg" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
