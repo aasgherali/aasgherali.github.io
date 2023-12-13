@@ -40,12 +40,17 @@ The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins 
     <div class="col-8 mt-3">
         {% include figure.html path="assets/turkey/Sunset.jpg" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-4 mt-3">
-        {% include figure.html path="assets/turkey/food1.jpg" title="Turkish Food" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption text-center mt-3">
-   A feast for the senses: a colorful and flavorful display of Turkish cuisine.
+   Anatolian sunset 
 </div>
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/turkey/food1.jpg" title="Turkish Cuisine" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A feast for the senses: a colorful and flavorful display of Turkish cuisine.
+</div>
