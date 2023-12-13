@@ -45,6 +45,7 @@ The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins 
    Anatolian sunset 
 </div>
 
+The undisputed king of Turkish cuisine, kebabs offer a variety of grilled meats, from tender lamb and chicken to flavorful Adana kebabs seasoned with red pepper.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
