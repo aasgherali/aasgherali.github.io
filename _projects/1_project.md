@@ -59,12 +59,12 @@ The undisputed king of Turkish cuisine, kebabs offer a variety of grilled meats,
         {% include figure.html path="assets/turkey/Beach.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/DSC_4768.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, a sunset view at Duden Park, Antalya. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, a sunset view at Duden Park, Antalya. Middle, *The Mediterranean Sea*, a mesmerizing canvas, stretches out before you, its sparkling waves gently lapping against the shore. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
