@@ -41,9 +41,7 @@ The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins 
         {% include figure.html path="assets/turkey/Sunset.jpg" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption text-center mt-3">
-   Anatolian sunset 
-</div>
+
 
 The undisputed king of Turkish cuisine, kebabs offer a variety of grilled meats, from tender lamb and chicken to flavorful Adana kebabs seasoned with red pepper.
 
