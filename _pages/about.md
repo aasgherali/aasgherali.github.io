@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my webpage! :wave: I'm delighted to introduce myself – I am Asgher Ali, a dedicated Assistant Professor at the Integrated Sciences and Mathematics within the Dhanani School of Science and Engineering, nestled within the vibrant academic landscape of Habib University, Karachi. My intellectual pursuits revolve around the captivating realm of optimal control, specifically as it pertains to continuous models stemming from antibiotic and radiobiological dosing challenges.
+Welcome to my webpage! :wave: I'm delighted to introduce myself – I am Asgher Ali, a dedicated Assistant Professor at the Integrated Sciences and Mathematics Program within the Dhanani School of Science and Engineering, nestled within the vibrant academic landscape of Habib University, Karachi. My intellectual pursuits revolve around the captivating realm of optimal control, specifically as it pertains to continuous models stemming from antibiotic and radiobiological dosing challenges.
 
 With a fervent curiosity for the practical applications of mathematics, I am driven to bridge the gap between theory and real-world impact. The complex landscapes of antibiotic and radiobiological dosing have captivated my attention, propelling me to explore optimal control methodologies that hold the potential to revolutionize healthcare strategies and deepen our understanding of biological systems.
 
