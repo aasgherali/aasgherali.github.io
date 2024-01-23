@@ -9,8 +9,8 @@ profile:
   image: Asgher.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Assistant Professor, Integrated Sciences and Mathematics, Office W-308, </p>
-    <p> Habib University, Karachi, Pakistan. </p>
+    <p>Assistant Professor, Integrated Sciences and Mathematics,</p>
+    <p>Office W-308, Habib University, Karachi.</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
