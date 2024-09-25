@@ -24,6 +24,6 @@ With a fervent curiosity for the practical applications of mathematics, I am dri
 
 My journey is not confined to the theoretical alone. My explorations encompass a diverse array of interests, ranging from computational mathematics and numerical optimization to the intricacies of nerual network inspired partial differential equation solutions. I find great fulfillment in engaging with modeling and simulations, as well as diving into the depths of parameter estimation and stochastic modeling.
 
-<p><strong>Research interests</strong>: computational mathematics, numerical optimization, neural network inspired PDEs solution, modeling and simulations, optimal control theory, parameter estimation, stochastic modeling.
+<p><strong>Research interests</strong>: computational mathematics, numerical optimization, machine learning for public health, modeling and simulations, optimal control theory, parameter estimation, stochastic modeling.
 
 <p><strong>Let me know if you have an open post doc position on these (or adjacent) topics.</strong> 
