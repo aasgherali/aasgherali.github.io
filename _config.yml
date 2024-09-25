@@ -9,8 +9,8 @@ last_name: Ali
 email: asgher.ali@lums.edu.pk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Hosted by <a href="https://pages.github.com/" target="_blank"> GitHub Pages </a>. Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://github.com/bogoli/-folio">al-folio theme</a>
+#footer_text: >
+#  Hosted by <a href="https://pages.github.com/" target="_blank"> GitHub Pages </a>. Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://github.com/bogoli/-folio">al-folio theme</a>
 
 #  Hosted by <a href="https://pages.github.com/" target="_blank"> GitHub Pages </a>.
 #  Powered by <a href="https://jekyllrb.com/" target="_blank"> Jekyll </a>.
