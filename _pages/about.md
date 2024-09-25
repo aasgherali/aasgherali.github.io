@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: Asgher.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   #address: >
   #  <p>Assistant Professor, Integrated Sciences and Mathematics,</p>
   #  <p>Office W-308, Habib University, Karachi.</p>
