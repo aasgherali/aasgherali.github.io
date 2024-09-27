@@ -1,14 +1,16 @@
 ---
 layout: page
-permalink: /courses/
 title: Teaching
-description: Materials for courses taught.
+permalink: /teaching/
+description: A growing collection of travel pictures.
 nav: true
-nav_order: 5
+nav_order: 2
+display_categories: [work, fun]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="courses">
+<div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
@@ -54,16 +56,3 @@ nav_order: 5
   {%- endif -%}
 {%- endif -%}
 </div>
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-I have to update it now!
