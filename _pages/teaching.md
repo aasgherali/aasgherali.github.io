@@ -2,10 +2,10 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: A growing collection of travel pictures.
+description: Materials for taught courses.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: work
 horizontal: false
 ---
 
