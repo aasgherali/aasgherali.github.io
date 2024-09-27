@@ -180,7 +180,7 @@ collections:
     permalink: /projects/:path/
   teaching:
     output: true
-    permalink: /courses/:path/
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true
