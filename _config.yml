@@ -251,9 +251,7 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-
-  sass:
-    style: compressed
+      
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
