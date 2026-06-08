@@ -178,8 +178,10 @@ collections:
   projects:
     output: true
     #permalink: /projects/:path/
-  teaching:
+  teachings:
     output: true
+    defaults:
+      layout: page
     #permalink: /:collection/:title/
 
 announcements:
