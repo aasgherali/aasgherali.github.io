@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Teaching
+layout: teaching
+title: teaching
+description: classes, workshops, and teaching materials
 permalink: /teaching/
-description: Materials for taught courses.
 nav: true
-nav_order: 2
-display_categories: teaching
-horizontal: false
+nav_order: 4
+#display_categories: teaching
+#horizontal: false
 ---
 
 <!-- pages/projects.md -->
