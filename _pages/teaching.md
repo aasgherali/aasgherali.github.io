@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Materials for taught courses.
 nav: true
 nav_order: 2
-display_categories: work
+display_categories: teaching
 horizontal: false
 ---
 
