@@ -6,7 +6,7 @@ description: Materials for taught courses.
 nav: true
 #nav_order: 2
 #display_categories: work
-#horizontal: false
+horizontal: true
 ---
 
 <!-- pages/teaching.md -->
