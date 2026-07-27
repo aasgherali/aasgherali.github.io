@@ -25,7 +25,7 @@ Imagine the echo of ancient voices, the thrill of the crowd, the drama unfolding
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/cable_car.jpg" title="Olympos Teleferik" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/cable_car.avif" title="Olympos Teleferik" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ The sun sets on Kaleiçi, Antalya, casting a golden glow over the ancient ruins 
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/Sunset.jpg" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/Sunset.avif" title="Sunset in Antalya" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -47,7 +47,7 @@ The undisputed king of Turkish cuisine, kebabs offer a variety of grilled meats,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/food1.jpg" title="Turkish Cuisine" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/food1.avif" title="Turkish Cuisine" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,13 +56,13 @@ The undisputed king of Turkish cuisine, kebabs offer a variety of grilled meats,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/Beach.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/Beach.avif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/DSC_4768.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/DSC_4768.avif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/turkey/DSC_4993.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/turkey/DSC_4993.avif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
