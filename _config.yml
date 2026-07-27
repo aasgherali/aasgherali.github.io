@@ -177,12 +177,13 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    #permalink: /projects/:path/
-  teachings:
+    permalink: /projects/:path/
+  teaching:
     output: true
+    permalink: /teaching/:path/
     defaults:
       layout: page
-    #permalink: /:collection/:title/
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
