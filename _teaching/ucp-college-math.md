@@ -4,6 +4,7 @@ title: College Mathematics
 description: Fall 2020, Spring 2021 · University of Central Punjab
 importance: 2
 category: University of Central Punjab
+year: 2020
 ---
 
 An intermediate undergraduate mathematics course bridging pre-university algebra with calculus and discrete mathematics topics relevant to computing and applied sciences.

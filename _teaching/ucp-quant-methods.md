@@ -4,6 +4,7 @@ title: Quantitative Methods
 description: Fall 2020 · University of Central Punjab
 importance: 3
 category: University of Central Punjab
+year: 2020
 ---
 
 A course in quantitative methods for undergraduate students in business and management. Emphasis on developing mathematical and statistical tools to support data-driven decision making.

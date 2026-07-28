@@ -4,6 +4,7 @@ title: Linear Algebra with Differential Equations
 description: Teaching Assistant · Fall 2015-16, Summer 2020-21 · LUMS
 importance: 3
 category: Lahore University of Management Sciences
+year: 2015
 ---
 
 Served as Teaching Assistant for this core undergraduate course combining linear algebra and ordinary differential equations. Responsibilities included conducting recitation sessions, holding office hours, designing problem sets, and grading.

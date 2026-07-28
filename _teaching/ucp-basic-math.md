@@ -4,6 +4,7 @@ title: Basic Mathematics
 description: Fall 2019, Fall 2020 · University of Central Punjab
 importance: 1
 category: University of Central Punjab
+year: 2019
 ---
 
 A foundational undergraduate mathematics course covering essential algebra, functions, and introductory calculus for students in business, computing, and social science programmes.

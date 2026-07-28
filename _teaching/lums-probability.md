@@ -3,7 +3,8 @@ layout: page
 title: Probability
 description: Teaching Assistant · Summer 2021-22, Summer 2022-23 · LUMS
 importance: 7
-category: Lahore University of Management Sciences
+category: Lahore University of Management Science
+year: 2021
 ---
 
 Served as Teaching Assistant for this foundational course in probability theory, supporting two consecutive summer cohorts. Conducted problem-solving sessions and assisted students with both theoretical proofs and applied problem sets.

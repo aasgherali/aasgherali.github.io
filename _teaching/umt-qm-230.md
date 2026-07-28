@@ -4,6 +4,7 @@ title: Basic Mathematics and Statistics
 description: QM-230 · Spring 2019-20 · University of Management and Technology
 importance: 1
 category: University of Management and Technology
+year: 2020
 ---
 
 An undergraduate course covering foundational mathematics and descriptive statistics for business and management students. The course emphasises practical data analysis skills alongside core mathematical reasoning.

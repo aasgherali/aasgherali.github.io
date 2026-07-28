@@ -4,6 +4,7 @@ title: Calculus
 description: Math-101 · Fall 2023-24 · Lahore University of Management Sciences
 importance: 1
 category: Lahore University of Management Sciences
+year : 2023
 ---
 
 An introductory course in single-variable calculus covering limits, continuity, differentiation, and integration. Emphasis is placed on both conceptual understanding and computational proficiency, with applications drawn from the natural and social sciences.

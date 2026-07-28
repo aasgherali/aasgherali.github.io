@@ -4,6 +4,7 @@ title: Calculus II
 description: Teaching Assistant · Fall 2022-23 · Lahore University of Management Sciences
 importance: 8
 category: Lahore University of Management Sciences
+year: 2022
 ---
 
 Served as Teaching Assistant for the second semester calculus course, covering multivariable calculus and series. Conducted weekly problem sessions and held office hours.

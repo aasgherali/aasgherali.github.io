@@ -4,6 +4,7 @@ title: Advanced Numerical Analysis
 description: Teaching Assistant · Spring 2019-20 · Lahore University of Management Sciences
 importance: 4
 category: Lahore University of Management Sciences
+year: 2020
 ---
 
 Served as Teaching Assistant for this graduate-level course in numerical methods and analysis. The course develops rigorous mathematical foundations for numerical algorithms with a focus on accuracy, stability, and convergence.

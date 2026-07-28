@@ -5,6 +5,7 @@ description: Fall 2023-24, LUMS
 img: assets/img/calculus.jpg   # optional thumbnail
 importance: 1
 category: LUMS
+year: 2023
 ---
 
 A first course in single-variable calculus covering limits, derivatives, and integrals.
