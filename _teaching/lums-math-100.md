@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pre-Calculus
+title: Pre Calculus
 description: Math-100 · Spring 2022-23 · Lahore University of Management Sciences
 importance: 2
 category: Lahore University of Management Sciences
