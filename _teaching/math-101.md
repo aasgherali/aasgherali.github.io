@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Calculus (Math-101)
-description: Fall 2023-24, LUMS
-img: assets/img/calculus.jpg   # optional thumbnail
+description: Fall 2023-24, Lahore University of Management Sciences
+#img: assets/img/calculus.jpg   # optional thumbnail
 importance: 1
 category: LUMS
 year: 2023
