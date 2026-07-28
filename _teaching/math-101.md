@@ -8,7 +8,11 @@ category: LUMS
 year: 2023
 ---
 
-A first course in single-variable calculus covering limits, derivatives, and integrals.
+An introductory course in single-variable calculus covering limits, continuity, differentiation, and integration. Emphasis is placed on both conceptual understanding and computational proficiency, with applications drawn from the natural and social sciences.
+
+**Role:** Adjunct Faculty
+
+**Offered:** Fall 2023–24
 
 **Topics covered:**
 - Limits and continuity
