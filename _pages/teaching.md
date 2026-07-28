@@ -56,3 +56,32 @@ horizontal: true
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+<!-- pages/teaching.md -->
+<div class="projects">
+
+  <!-- ================= 2026 COURSES ================= -->
+  <h2 class="year-heading" style="margin-top: 2rem; border-bottom: 2px solid var(--global-divider-color); padding-bottom: 0.5rem;">2026</h2>
+  {%- assign courses_2026 = site.teaching | where: "year", 2026 | sort: "importance" -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in courses_2026 -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+
+  <!-- ================= 2025 COURSES ================= -->
+  <h2 class="year-heading" style="margin-top: 3rem; border-bottom: 2px solid var(--global-divider-color); padding-bottom: 0.5rem;">2025</h2>
+  {%- assign courses_2025 = site.teaching | where: "year", 2025 | sort: "importance" -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in courses_2025 -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+
+</div>
+
