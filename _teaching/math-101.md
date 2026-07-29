@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calculus I 
-description: Fall 2023-24, Lahore University of Management Sciences
+description: Math 101 · Fall 2022-23 · Lahore University of Management Sciences
 #img: assets/img/calculus.jpg   # optional thumbnail
 importance: 1
 category: LUMS
