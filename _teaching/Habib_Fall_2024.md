@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calculus I 
-description: Math 101 · Fall 2024-25 · Lahore University of Management Sciences
+description: Math 101 · Fall 2024-25 · Habib University
 #img: assets/img/calculus.jpg   # optional thumbnail
 importance: 1
 category: Habib University
