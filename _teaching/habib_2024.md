@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linear Algebra
-description: Math 205 · Spring 2024-25 · Habib University
+description: Math 205 · Spring 2023-24 · Habib University
 importance: 8
 category: Habib University
 year: 2024
