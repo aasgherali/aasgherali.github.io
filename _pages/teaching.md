@@ -13,6 +13,11 @@ horizontal: false
 <!-- pages/teaching.md -->
 <div class="projects">
 
+  <!-- 1. FILTER BY TEACHING CATEGORY FIRST, THEN GROUP BY YEAR -->
+  {%- assign teaching_items = site.teaching | where: "category", "work" -%}
+  {%- assign grouped_courses = teaching_items | group_by: "year" -%}
+
+
   <!-- 1. GROUP ALL COURSES DYNAMICALLY BY THEIR YEAR VALUE -->
   {%- assign grouped_courses = site.teaching | group_by: "year" -%}
   
