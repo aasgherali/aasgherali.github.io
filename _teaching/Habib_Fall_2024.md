@@ -2,7 +2,7 @@
 layout: page
 title: Calculus I 
 description: Math 101 · Fall 2024-25 · Habib University
-img: assets/img/calc.png   # optional thumbnail
+#img: assets/img/calc.png   # optional thumbnail
 importance: 1
 category: Habib University
 year: 2024
